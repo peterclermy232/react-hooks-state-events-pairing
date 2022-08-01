@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <Video video={video} />
+      <Video videoData={videoData} />
     </div>
   );
 }
